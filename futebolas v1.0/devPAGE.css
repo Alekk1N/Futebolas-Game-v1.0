@@ -1,0 +1,63 @@
+body{
+  background: black;
+}
+
+#titulo{
+  border: dashed grey 4px;
+  background: aliceblue;
+  font-size: 30px;
+  opacity: 80%;
+}
+
+#curriculoGui{
+  color: white;
+  border: solid white 1px;
+  padding: 5px;
+  margin: 10px;
+}
+#curriculoAlex{
+  color: white;
+  border: solid white 1px;
+  padding: 5px;
+  margin: 10px;
+
+}
+.flex-container{
+
+  display: flex;
+  position: center;
+  justify-content: space-around;
+  align-items: center;
+
+
+}
+
+.flex-container1{
+
+  display: flex;
+  position: center;
+  justify-content:space-between;
+  margin: 15px;
+  padding: 15px;
+
+
+}
+
+#imgAlex{
+  border: solid white 1px;
+}
+
+#imgGuilherme{
+  border: solid white 1px;
+}
+
+.botaovoltar{
+  opacity: 70%;
+  background-color: gray;
+  position: relative;
+  top: -20px;
+}
+
+.botaovoltar:hover{
+  color: white;
+}

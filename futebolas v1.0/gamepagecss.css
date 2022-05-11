@@ -1,0 +1,11 @@
+canvas {
+  background-color: #6bb85e;
+  display: block;
+  margin: auto;
+}
+
+button{
+  display: block;
+  margin: auto;
+  alignment: center;
+}

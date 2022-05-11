@@ -1,0 +1,56 @@
+elemento {
+  cursor: crosshair;
+}
+p{
+  color: #222222;
+  font-size: 70pt;
+  text-align: center;
+  font-weight: bold;
+}
+K{
+  color: green;
+  font-size: 70pt;
+  text-align: center;
+  font-weight: bold;
+
+}
+.page1{
+  position: relative;
+  top: auto;
+  padding: 200px;
+  background-image: linear-gradient(#6bb85e, #ffebcd);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position-x: right ;
+
+  transition: background-size 500ms;
+}
+
+.page1:hover{
+  background-size: 100% 100%;
+  background-position-x: left;
+}
+
+z{
+  font-family: "Comic Sans MS";
+  font-size: 15px;
+  position: absolute;
+  top: 950px;
+}
+
+z:hover{
+  color:#6bb85e;
+}
+
+.flex-container{
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  alignment: center;
+  align-items: center;
+}
+
+.top{
+  position: absolute;
+  top: 550px;
+}

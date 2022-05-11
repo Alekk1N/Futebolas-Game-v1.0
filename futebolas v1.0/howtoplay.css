@@ -1,0 +1,37 @@
+#titulo{
+  border: dashed grey 4px;
+  background: aliceblue;
+  font-size: 30px;
+  opacity: 80%;
+}
+
+.botaovoltar{
+  opacity: 70%;
+  background-color: #c2c1c1;
+  position: relative;
+  top: -20px;
+}
+
+.botaovoltar:hover{
+  color: white;
+}
+
+p{
+  border: solid black 1px;
+  background-color: black;
+  opacity: 70%;
+  color: burlywood;
+  text-align: center;
+  font-size: 27pt;
+
+}
+
+k{
+  color: blue;
+  opacity: 70%;
+}
+
+v{
+  color: red;
+  opacity: 70%;
+}
